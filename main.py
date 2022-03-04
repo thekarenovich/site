@@ -1,3 +1,4 @@
+'''ERIK ERIK'''
 # coding=utf-8
 # This is a sample Python script.
 
